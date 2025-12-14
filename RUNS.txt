@@ -1,0 +1,2 @@
+Đây là kết quả model cần tải để thực hiện các đoạn code Inference:
+https://drive.google.com/file/d/1TZKpIu5iQTk-km6cYY31nY0ZWo2vcUmi/view?usp=sharing
